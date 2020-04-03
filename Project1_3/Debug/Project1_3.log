@@ -1,0 +1,22 @@
+﻿  compile_error.cpp
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(12,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(13,2): error C2065: 'cin': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(14,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(15,2): error C2065: 'cin': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(16,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(17,2): error C2065: 'cin': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(22,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(22,22): error C2653: 'ios': is not a class or namespace name
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(22,17): error C2065: 'fixed': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(23,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(25,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(25,10): error C2065: 'endl': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(26,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(26,57): error C2065: 'endl': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(27,2): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(27,57): error C2065: 'endl': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(29,23): error C2065: 'antImpeachment': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(30,3): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(30,64): error C2065: 'endl': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(32,3): error C2065: 'cout': undeclared identifier
+C:\Users\helen\CS31\Project1_3\compile_error.cpp(32,64): error C2065: 'endl': undeclared identifier

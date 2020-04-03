@@ -1,0 +1,9 @@
+﻿  plot.cpp
+C:\Users\helen\CS31\Project3\plot.cpp(95,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS31\Project3\plot.cpp(132,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS31\Project3\plot.cpp(160,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS31\Project3\plot.cpp(188,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS31\Project3\plot.cpp(195,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS31\Project3\plot.cpp(210,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS31\Project3\plot.cpp(220,16): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\helen\CS31\Project3\Debug\Project3.exe
